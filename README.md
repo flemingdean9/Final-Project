@@ -5,10 +5,12 @@
 **Team Name:** Certified Crime Fighters
 
 Ryan Bloch - ryb45@pitt.edu
+
 satisfaction.ipynb
 crime.ipynb
 
 Fleming Dean - efd17@pitt.edu
+
 streets_people-2.ipynb
 
 ## Datasets
