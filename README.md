@@ -7,6 +7,7 @@
 Ryan Bloch - ryb45@pitt.edu
 
 satisfaction.ipynb
+
 crime.ipynb
 
 Fleming Dean - efd17@pitt.edu
