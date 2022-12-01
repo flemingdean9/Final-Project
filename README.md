@@ -6,13 +6,13 @@
 
 Ryan Bloch - ryb45@pitt.edu
 
-*satisfaction.ipynb
+* satisfaction.ipynb
 
-*crime.ipynb
+* crime.ipynb
 
 Fleming Dean - efd17@pitt.edu
 
-*streets_people-2.ipynb
+* streets_people-2.ipynb
 
 ## Datasets
 
