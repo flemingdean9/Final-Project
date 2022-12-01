@@ -16,4 +16,6 @@ Dataset containing neighborhood problems which we used to find unsafe streets ar
 
 Dataset containing the citizen's satisfaction with the neighborhood used to find bad streets, alleys, and parks: https://data.wprdc.org/dataset/pittsburgh-neighborhood-atlas-1977/resource/88da41a0-9386-438d-8d27-7a8f7cea3069
 
-**Overview:** The final notebook found the best neighborhood in Pittsburgh to be a crime fighter by using the datasets containing the most crime, most street problems and undesirable people, and least neighborhood satisfaction of streets, alleys, and parks.
+## Overview
+
+The final notebook found the best neighborhood in Pittsburgh to be a crime fighter by using the datasets containing the most crime, most street problems and undesirable people, and least neighborhood satisfaction of streets, alleys, and parks.
